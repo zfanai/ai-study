@@ -1,0 +1,34 @@
+2017/10/24
+https://www.anaconda.com/download/#windows
+
+
+2017/10/23
+http://blog.csdn.net/zkl99999/article/details/50455677
+http://bi.dataguru.cn/article-8669-1.html
+http://blog.csdn.net/abcjennifer/article/details/7826917
+
+tensorflow 
+https://github.com/tobegit3hub/tensorflow_template_application
+
+2017-10-21
+
+详解 MNIST 数据集
+http://blog.csdn.net/simple_the_best/article/details/75267863
+
+whl离线安装包
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+
+安装scipy时报错
+通过离线包的方式安装成功。
+
+
+http://blog.csdn.net/fuwenyan/article/details/53954615
+
+几种主要的机器学习框架的介绍。
+https://www.leiphone.com/news/201701/Lutmxs35U8ZNF7p6.html
+
+theano 学习博客
+http://www.cnblogs.com/hanahimi/p/4127026.html
+
+CUDA
+https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=7&target_type=exelocal
